@@ -1,0 +1,28 @@
+images {
+  image: "/assets/Battleground3/Bright/Battleground3.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/fireflys.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/grass&road.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/grasses.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/jungle_bg.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/lianas.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/sky.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/tree_face.png"
+}
+images {
+  image: "/assets/Battleground3/Bright/trees&bushes.png"
+}
+extrude_borders: 2
